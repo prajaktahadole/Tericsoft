@@ -1,0 +1,17 @@
+.page-main {
+  color: #c9c7c7;
+  background-color: #212529; 
+}
+
+.heading-div {
+  width: 70%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.heading-div > p {
+  font-size: x-large;
+  cursor: pointer;
+}

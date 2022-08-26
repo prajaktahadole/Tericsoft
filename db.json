@@ -1,0 +1,245 @@
+{
+  "feature": [
+    {
+      "title": "new",
+      "data": [
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "Day 1",
+          "time": "5:00",
+          "genre": ["abc", "xyz"]
+        },
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "Day 2",
+          "time": "4:00",
+          "genre": ["abc", "xyz"]
+        }
+      ]
+    }
+  ],
+  "armoury": [
+    {
+      "title": "shooting",
+      "data": [
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "Day 1",
+          "time": "4:03",
+          "genre": ["abc", "xyz"]
+        }
+      ]
+    }
+  ],
+  "cycling": [
+    {
+      "title": "BMX",
+      "data": [
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "Day 1",
+          "time": "3:02",
+          "genre": ["abc", "xyz"]
+        },
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "Day 2",
+          "time": "8:12",
+          "genre": ["abc", "xyz"]
+        },
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "Day 3",
+          "time": "5:22",
+          "genre": ["abc", "xyz"]
+        }
+      ]
+    },
+    {
+      "title": "Mountain",
+      "data": [
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "Day 1",
+          "time": "0:03",
+          "genre": ["abc", "xyz"]
+        },
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "Day 2",
+          "time": "7:23",
+          "genre": ["abc", "xyz"]
+        }
+      ]
+    },
+    {
+      "title": "Road",
+      "data": [
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "day 1",
+          "time": "5:03",
+          "genre": ["abc", "xyz"]
+        }
+      ]
+    },
+    {
+      "title": "Track",
+      "data": [
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "Day 2",
+          "time": "8:23",
+          "genre": ["abc", "xyz"]
+        },
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "Day 3 ",
+          "time": "8:23",
+          "genre": ["abc", "xyz"]
+        }
+      ]
+    }
+  ],
+  "equestrian": [
+    {
+      "title": "Show-jumping",
+      "data": [
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "Horse training",
+          "time": "4:03",
+          "genre": ["abc", "xyz"]
+        }
+      ]
+    },
+    {
+      "title": "dressage",
+      "data": [
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "Horse training",
+          "time": "3:53",
+          "genre": ["abc", "xyz"]
+        }
+      ]
+    }
+  ],
+  "golf": [
+    {
+      "title": "golf",
+      "data": [
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "Improving aim",
+          "time": "8:13",
+          "genre": ["abc", "xyz"]
+        },
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "long shot",
+          "time": "2:23",
+          "genre": ["abc", "xyz"]
+        }
+      ]
+    }
+  ],
+  "gymnast": [
+    {
+      "title": "rhythmic",
+      "data": [
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "Day 1 Improving",
+          "time": "6:43",
+          "genre": ["abc", "xyz"]
+        }
+      ]
+    },
+    {
+      "title": "Trampoline",
+      "data": [
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "jumping high",
+          "time": "3:23",
+          "genre": ["abc", "xyz"]
+        }
+      ]
+    }
+  ],
+  "extreme": [
+    {
+      "title": "snowboarding",
+      "data": [
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "Day 1 ",
+          "time": "1:23",
+          "genre": ["abc", "xyz"]
+        },
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "Day 2 ",
+          "time": "5:43",
+          "genre": ["abc", "xyz"]
+        }
+      ]
+    },
+    {
+      "title": "mountain-biking",
+      "data": [
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "drive 5km up",
+          "time": "5:03",
+          "genre": ["abc", "xyz"]
+        },
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "drive 10km up",
+          "time": "01:43",
+          "genre": ["abc", "xyz"]
+        },
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "drive 10km up",
+          "time": "3:63",
+          "genre": ["abc", "xyz"]
+        }
+      ]
+    }
+  ],
+  "lake": [
+    {
+      "title": "hydrofoil",
+      "data": [
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "Day 1 Improving",
+          "time": "3:13",
+          "genre": ["abc", "xyz"]
+        },
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "Day 1 Improving",
+          "time": "4:23",
+          "genre": ["abc", "xyz"]
+        }
+      ]
+    }
+  ],
+  "aquatic": [
+    {
+      "title": "swiming",
+      "data": [
+        {
+          "url": "https://via.placeholder.com/350x500.png",
+          "title": "Stamina boosting",
+          "time": "8:23",
+          "genre": ["abc", "xyz"]
+        }
+      ]
+    }
+  ]
+}

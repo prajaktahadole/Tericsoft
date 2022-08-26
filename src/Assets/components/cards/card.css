@@ -1,0 +1,49 @@
+.card-main {
+  position: relative;
+  width: 350px;
+  height: 450px;
+}
+
+.card> img {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 1;
+  left: 0;
+  top: 0;
+}
+
+.details {
+  z-index: 2123123;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+}
+
+.detail > div {
+  display: flex;
+  align-items: center;
+}
+
+.detail > div:nth-child(1) {
+  justify-content: space-between;
+  margin: 5px;
+ 
+}
+
+.detail > div:nth-child(2) {
+  margin: 5px;
+  gap: 10px;
+}
+
+.detail > div:nth-child(2) > p {
+  padding: 5px;
+  padding-left: 10px;
+  background-color: rgba(128, 128, 128, 0.5);
+  border-radius: 5px;
+
+}
